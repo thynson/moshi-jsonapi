@@ -1,0 +1,4 @@
+rootProject.name = 'moshi-jsonapi-parent'
+include 'moshi-jsonapi'
+include 'moshi-jsonapi-utils'
+
